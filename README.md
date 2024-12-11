@@ -1,4 +1,4 @@
-This project focuses on performing advanced sales data analysis and building an interactive Excel dashboard. It demonstrates key data manipulation, analysis, and visualization techniques to derive actionable insights.
+The project EMPLOYEE COMPLIANCE AND SALES ANALYSIS focuses on performing advanced sales data analysis and building an interactive Excel dashboard. It demonstrates key data manipulation, analysis, and visualization techniques to derive actionable insights.
 
 **Key Achievements**
 
