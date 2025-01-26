@@ -16,7 +16,7 @@ The project EMPLOYEE COMPLIANCE AND SALES ANALYSIS focuses on performing advance
 
 **Data Cleaning:** Standardized formats for Customer IDs to align datasets.
 
-**Formulas and Functions**: Applied advanced Excel formulas (e.g., VLOOKUP, TEXT, IF) for calculations and data transformation.
+**Formulas and Functions**: Applied advanced Excel formulas (e.g. VLOOKUP, TEXT, IF) for calculations and data transformation.
 
 **Pivot Tables and Charts**: Created aggregated views and visualizations to highlight trends and insights.
 
